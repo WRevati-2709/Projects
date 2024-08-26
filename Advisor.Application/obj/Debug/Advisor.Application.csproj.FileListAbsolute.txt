@@ -1,0 +1,9 @@
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\bin\Debug\Advisor.Application.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\bin\Debug\Advisor.Application.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\bin\Debug\Advisor.Domain.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\bin\Debug\Advisor.Domain.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\obj\Debug\Advisor.Application.csproj.AssemblyReference.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\obj\Debug\Advisor.Application.csproj.CoreCompileInputs.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\obj\Debug\Advisor..13E2DDCE.Up2Date
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\obj\Debug\Advisor.Application.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Application\obj\Debug\Advisor.Application.pdb

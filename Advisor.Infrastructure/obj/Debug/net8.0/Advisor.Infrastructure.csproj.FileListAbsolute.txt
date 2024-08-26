@@ -1,0 +1,17 @@
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Infrastructure.deps.json
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Infrastructure.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Infrastructure.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Application.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Domain.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Application.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\bin\Debug\net8.0\Advisor.Domain.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.AssemblyInfo.cs
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor..0512AC4B.Up2Date
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\refint\Advisor.Infrastructure.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\Advisor.Infrastructure.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Infrastructure\obj\Debug\net8.0\ref\Advisor.Infrastructure.dll

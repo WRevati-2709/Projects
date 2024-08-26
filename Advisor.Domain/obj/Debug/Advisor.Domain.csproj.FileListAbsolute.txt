@@ -1,0 +1,6 @@
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\bin\Debug\Advisor.Domain.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\bin\Debug\Advisor.Domain.pdb
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\obj\Debug\Advisor.Domain.csproj.AssemblyReference.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\obj\Debug\Advisor.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\obj\Debug\Advisor.Domain.dll
+C:\Users\RWagh\source\repos\Apexa.TechnicalAssignment\Advisor.Domain\Advisor.Domain\obj\Debug\Advisor.Domain.pdb
